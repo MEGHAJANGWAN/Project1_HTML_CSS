@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+#Days{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 20px;
+    font-size: large;
+}
+
+input{
+    margin: 5px;
+}
+
+#username{
+    margin-left: 28px;
+}
+
+#EmailId{
+    margin-left: 10px;
+}
+
+  ul{
+    margin-left: 30px;
+    padding: 5px;
+  }
+
+
